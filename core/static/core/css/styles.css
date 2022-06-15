@@ -1,0 +1,12 @@
+body{
+    background-color: #18191A;
+    color: #2374E1;
+}
+
+.btn-primary{
+    background-color: #2374E1 !important;
+}
+
+.form-check .form-switch{
+    border-color: #2374E1 !important;
+}
